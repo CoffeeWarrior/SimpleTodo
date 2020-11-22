@@ -35,7 +35,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I am not too familiar with java so debugging was a bit of a pain, however I managed (My school uses c++ for teaching).
+I also found some depracated methods while coding this project, and I want to resolve them, however because my java skills are a bit lacking, it will take some time to learn how to.
+I had a lot of fun with this project, and I think it will be cool to add the features I was thinking of.
 
 ## License
 
