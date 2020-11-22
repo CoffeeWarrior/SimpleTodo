@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+  * [ ] **REMOVE DEPRECATED METHODS**
   * [ ] change remove to be a swipe rather than a long press
   * [ ] change insert to look prettier
   
